@@ -1,0 +1,8 @@
+snscrape
+tqdm
+transformers
+pandas
+torch
+matplotlib
+gradio
+numpy
