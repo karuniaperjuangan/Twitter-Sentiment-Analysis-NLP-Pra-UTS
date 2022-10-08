@@ -1,3 +1,4 @@
 
 model/
-training/logs
+training/logs/
+scraper/output/
